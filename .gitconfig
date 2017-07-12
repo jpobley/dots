@@ -1,0 +1,7 @@
+[user]
+	name = JP Obley
+	email = jpobley@gmail.com
+[core]
+	editor = vim
+[push]
+	default = simple
